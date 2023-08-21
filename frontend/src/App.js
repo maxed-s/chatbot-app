@@ -58,7 +58,7 @@ function App() {
                         <line x1="12" y1="5" x2="12" y2="19"></line>
                         <line x1="5" y1="12" x2="19" y2="12"></line>
                     </svg>
-                    <span>New Chat</span>
+                    <span>New chat</span>
                 </button>
                 <div className="text-xs m-4 mx-8 text-gray-400">Today</div>
                 <div className="chats flex flex-col justify-center items-center space-y-2">
@@ -70,7 +70,7 @@ function App() {
                             xmlns="http://www.w3.org/2000/svg">
                             <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
                         </svg>
-                        <span>chatQuestion</span>
+                        <span>Question</span>
                     </div>
                     
                 </div>
@@ -80,7 +80,7 @@ function App() {
 
             <div className={`right1 w-10/12 flex justify-center items-center flex-col ${!asked ? '' : 'hidden'}`}>
                 <div className="text-center w-full text-4xl font-bold my-10">
-                    ChatBot
+                    MaxedS Finance Agent
                 </div>
 
                 <div className="input w-full text-center my-24 flex items-center justify-center flex-col">
