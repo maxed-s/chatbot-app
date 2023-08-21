@@ -1,4 +1,4 @@
-# chatbot-app
+# Finance Agent
 
 Current to-do list: 
 1. App should be able to work (run properly)
