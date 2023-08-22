@@ -15,7 +15,7 @@
 
 ## To-Do
 
-* Merge Quickbooks log-in 
-* Merge email functionality
-* Implement Quickbooks invoices (and other API functionality)
-* Implement financial analysis and reports
+1. Merge Quickbooks log-in 
+2. Merge email functionality
+3. Implement Quickbooks invoices (and other API functionality)
+4. Implement financial analysis and reports
